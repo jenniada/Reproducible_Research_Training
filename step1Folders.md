@@ -93,7 +93,7 @@ You may get a question on recovery verses backup - have a chat to your storage t
 
 <!-- This is where you can write information on your organisation's data storage webpage and support contacts. Replace the text below with anything you like, and it will appear in relevant places in the lessons. -->
 
-Ask your IT department about Research data storage and consider a backup plan.
+The University of Sheffield's guidance on data storage can be found here: https://www.sheffield.ac.uk/library/research-data-management/storage
 
 
 
