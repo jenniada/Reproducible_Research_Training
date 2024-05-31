@@ -152,7 +152,7 @@ Have you got an open network?
 
 
 <!-- Include information about open access/publishing here. -->
-
+Information from the University Library about open access publishing can be found here: https://www.sheffield.ac.uk/library/open-access
 
 
 Prior to sharing, ensure you have clearly defined the licence, IP and attribution attached to your work.
