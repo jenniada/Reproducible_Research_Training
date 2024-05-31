@@ -226,7 +226,7 @@ A good time for suggestions on where to learn R and Python. You've probably alre
 
 
 <!-- Got any organisation information on where to learn R or Python? Does your institute run carpentries training or data science help? Include it below. -->
-
+Go to MyDevelopment for information about available training in Python and other programming languages.
 
 If you are using a random number generator, take note of the seed number.
 
