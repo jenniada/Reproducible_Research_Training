@@ -22,7 +22,7 @@ A place to share what is happening at your own institutes, and where attendees c
 
 
 <!-- Does your institute have a Reproducibility club, ReproducibiliTea group or webpages on reproducibility? This is where to include it. Also add any further follow up information you would like to share. -->
-
+You may be interested in joining the University of Sheffield's ReproducibiliTea journal club, which meets monthly to discuss articles in this field. Find details here: https://www.sheffield.ac.uk/openresearch/events/reproducibilitea-journal-club
 
 
 For each of our 7 lessons, do we have an action item?
